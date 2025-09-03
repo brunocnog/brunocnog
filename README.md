@@ -1,5 +1,5 @@
-**Oficial da Marinha do Brasil**, **Mestre em Ciência da Computação pela UFF**, com pesquisa voltada para **Cidades Inteligentes (Smart Cities)**, **Internet das Coisas (IoT)** e **DCOP**.  
-Tenho experiência em **desenvolvimento de software**, **arquitetura de sistemas** e **ensino de tecnologia**, com forte interesse em soluções inovadoras para ambientes urbanos inteligentes.
+Oficial da Marinha do Brasil, Mestre em Ciência da Computação pela UFF, com pesquisa voltada para Cidades Inteligentes (Smart Cities), Internet das Coisas (IoT)** e DCOP.  
+Tenho experiência em desenvolvimento de software, arquitetura de sistemas e ensino de tecnologia, com forte interesse em soluções inovadoras para ambientes urbanos inteligentes.
 
 Atualmente, estou focado em:
 - Ampliar conhecimentos em **Distributed constraint optimization (DCOP)**
@@ -17,7 +17,7 @@ Atualmente, estou focado em:
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/Tkinter-FF6F00?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/iot-agents.svg" height="28em" />
+  <img src="https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/iot-agents.svg" height="26em" />
 </p>
 
 ---
