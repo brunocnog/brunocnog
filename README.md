@@ -41,16 +41,6 @@ I have experience in software development, systems architecture, and technology 
 </p>
 
 ---
-## 🔗 How to reach me:
-<p align="center">
-  <a href="mailto:brunocesar.br@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-   -- 
-  <a href="https://github.com/brunocnog">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
 
 ## 📚 Articles
 
