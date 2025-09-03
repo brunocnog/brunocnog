@@ -1,4 +1,4 @@
-## ⚓ About Me:
+## 👨‍✈️ About Me:
 
 **Submarine Officer in the Brazilian Navy | Telecommunications Engineer | Master’s in Computer Science (UFF)**
 
