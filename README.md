@@ -18,7 +18,7 @@ I have experience in software development, systems architecture, and technology 
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Linux-E34F26?logo=linux&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Linux-B22222?logo=linux&logoColor=black&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Fiware-474747?style=for-the-badge&logo=fiware&logoColor=white" alt="FIWARE" />
 </p>
 
