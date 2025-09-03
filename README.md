@@ -1,14 +1,3 @@
-<!-- Banner com Nome e Logo -->
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Logo_of_the_Brazilian_Navy_%28symbol%29.svg/750px-Logo_of_the_Brazilian_Navy_%28symbol%29.svg.png" alt="Marinha do Brasil" width="120"/>
-</p>
-
-<h1 align="center">Bruno Nogueira</h1>
-<h3 align="center">Oficial da Marinha do Brasil | Mestre em Ciência da Computação </h3>
-
----
-
-## 📜 Sobre Mim
 **Oficial da Marinha do Brasil**, **Mestre em Ciência da Computação pela UFF**, com pesquisa voltada para **Cidades Inteligentes (Smart Cities)**, **Internet das Coisas (IoT)** e **DCOP**.  
 Tenho experiência em **desenvolvimento de software**, **arquitetura de sistemas** e **ensino de tecnologia**, com forte interesse em soluções inovadoras para ambientes urbanos inteligentes.
 
