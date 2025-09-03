@@ -28,10 +28,7 @@ I have experience in software development, systems architecture, and technology 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=brunocnog&show_icons=true&theme=dark&title_color=FFB81C&text_color=FFFFFF&icon_color=00843D&bg_color=0A1D37&border_color=FFB81&card_width=420" alt="GitHub Stats" height="180em"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunocnog&theme=dark&layout=compact&title_color=FFB81C&text_color=FFFFFF&icon_color=00843D&bg_color=0A1D37&border_color=FFB81&card_width=420" alt="Top Languages" height="180em"/>
-</p>
-<p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=brunocnog&limit=5&theme=dark&bg_color=0A1D37&border_color=FFB81&card_width=420&combine_all_yearly_contributions=true" alt="Top Contributed Repo"/>
-</p>
 
 ---
 
